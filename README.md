@@ -26,10 +26,10 @@ Cada integrante cuenta con su propio cuaderno Jupyter `.ipynb` independiente, pr
 
 | N.º | Integrante del Equipo | Área de Investigación y Responsabilidad Técnica | Cuaderno Jupyter (`.ipynb`) |
 |:---:|:---|:---|:---|
-| **1** | **Mamani Zapana Edward** | Comportamiento de `KMeans`, `DBSCAN` y `SpectralClustering` y análisis de validación externa e interna en **Iris** | [`notebooks/01_Integrante1_Clustering_Iris.ipynb`](notebooks/01_Integrante1_Clustering_Iris.ipynb) |
+| **1** | **Choquepata Puma Renso Erik**| Comportamiento de `KMeans`, `DBSCAN` y `SpectralClustering` y análisis de validación externa e interna en **Iris** | [`notebooks/01_Integrante1_Clustering_Iris.ipynb`](notebooks/01_Integrante1_Clustering_Iris.ipynb) |
 | **2** | **Ccapa Mamani Franklyn Antony** | Comportamiento de modelos y **Paradoja de Silhouette / Davies-Bouldin** en el dataset sintético **Moons** | [`notebooks/02_Integrante2_Clustering_Moons.ipynb`](notebooks/02_Integrante2_Clustering_Moons.ipynb) |
-| **3** | **Choquepata Puma Renso Erik** | Comportamiento de modelos, colapso centroidal y análisis en espacio espectral (**Vector de Fiedler**) en **Circles** | [`notebooks/03_Integrante3_Clustering_Circles.ipynb`](notebooks/03_Integrante3_Clustering_Circles.ipynb) |
-| **4** | **Gutierrez Arratia Kevin Diego** | Análisis de naturaleza **Lineal vs. No Lineal**, sensibilidad de **hiperparámetros críticos**, repositorio e Informe | [`notebooks/04_Integrante4_Lineal_vs_NoLineal_Hiperparametros.ipynb`](notebooks/04_Integrante4_Lineal_vs_NoLineal_Hiperparametros.ipynb) |
+| **3** | **Gutierrez Arratia Kevin Diego** | Comportamiento de modelos, colapso centroidal y análisis en espacio espectral (**Vector de Fiedler**) en **Circles** | [`notebooks/03_Integrante3_Clustering_Circles.ipynb`](notebooks/03_Integrante3_Clustering_Circles.ipynb) |
+| **4** | **Mamani Zapana Edward** | Análisis de naturaleza **Lineal vs. No Lineal**, sensibilidad de **hiperparámetros críticos**, repositorio e Informe | [`notebooks/04_Integrante4_Lineal_vs_NoLineal_Hiperparametros.ipynb`](notebooks/04_Integrante4_Lineal_vs_NoLineal_Hiperparametros.ipynb) |
 
 
 ---
