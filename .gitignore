@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.aux
+*.log
+.~lock.*
+build_reports_docx_pdf.py
+run_all_experiments_and_notebooks.py
+PLAN_*.*
